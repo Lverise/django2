@@ -5,5 +5,5 @@ from templatesApp.views import renderTemplate, renderTemplate2
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('render/', renderTemplate),
-    path('render2/', renderTemplate2)
+    path('pagina2/', renderTemplate2),
 ]

@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-color: burlywood;
+}
+
+
+ul,li{
+    display: block;
+}
+img{
+    width: 400px;
+}
